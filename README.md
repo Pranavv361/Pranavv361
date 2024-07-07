@@ -58,8 +58,6 @@
 ## Education
 ### Master’s in Data Science and Analytics
 **University of Oklahoma, Norman**  
-*Aug 2022 - May 2024*  
-GPA: 3.9/4.0  
 
 ---
 
