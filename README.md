@@ -42,6 +42,19 @@
 |----------|----------|
 | <img src="https://github.com/Pranavv361/Pranavv361/blob/main/assets/amazon_redshift.png" title="AWS Redshift" alt="Redshift" width="95" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Pranavv361&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavv361&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranavv361&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## Education
 ### Master’s in Data Science and Analytics
 **University of Oklahoma, Norman**  
