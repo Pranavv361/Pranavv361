@@ -3,7 +3,7 @@
 
 ## About Me
 
-6 years of expertise in manipulating large data sets, building and deploying statistical models, and delivering data-driven insights to optimize business processes. Proficient in Python, SQL, Power BI, Scikit-Learn, and Azure. Adept at collaborating with cross-functional teams to drive changes and improve business outcomes.
+5+ years of expertise in manipulating large data sets, building and deploying statistical models, and delivering data-driven insights to optimize business processes. Proficient in Python, SQL, Power BI, Scikit-Learn, and Azure. Adept at collaborating with cross-functional teams to drive changes and improve business outcomes.
 
 ## Languages and Tools
 
