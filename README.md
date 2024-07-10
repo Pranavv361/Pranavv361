@@ -61,4 +61,4 @@
 
 ---
 
-Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, please reach out to me via [LinkedIn](https://www.linkedin.com/in/pranavvichare/) or [Email](pranavvichare361@gmail.com).
+Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, please reach out to me via [LinkedIn](https://www.linkedin.com/in/pranavvichare/) or pranavvichare361@gmail.com
