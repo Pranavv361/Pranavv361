@@ -47,9 +47,9 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavv361&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranavv361&style=for-the-badge&color=orange" alt=""/>
-</div>
+</div> -->
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
